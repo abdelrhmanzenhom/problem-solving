@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639520139 source:d:\acm\plan\main.cpp
+	<iostream>
+	<algorithm>
+
